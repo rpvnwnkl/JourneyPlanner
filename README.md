@@ -13,4 +13,15 @@ As a user, I want a tool to help choose a driving route for longer trips so that
 * Is historical rush hour traffic available (traffic flow data)
 * what factors affect driving pleasantness?
 
- 
+##Weather Data:
+Recommend looking into NOWA forecast access/info
+
+for example:
+
+* http://forecast.weather.gov/product.php?site=NWS&issuedby=GYX&product=AFD&format=CI&version=1&glossary=1&highlight=off
+* http://forecast.weather.gov/MapClick.php?zoneid=MEZ021
+
+This information could be parsed and then interpreted into meaningful data
+
+
+  
